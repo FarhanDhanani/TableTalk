@@ -1,0 +1,101 @@
+Sample_Id,Question,Row Index
+0,Who was the incumbent candidate for the Republican Party?,0
+0,Which party did Adlai Stevenson III represent?,1
+0,What percentage of votes did Bea Armstrong receive?,2
+0,Who was the candidate for the Taxpayers Party?,3
+0,How many votes did the write-ins receive?,4
+0,What was the total number of votes for the Majority party?,5
+0,What was the voter turnout in the election?,6
+0,Which party held a Republican majority?,7
+0,How many votes did John E. Roche receive?,3
+0,What was the vote percentage for James R. Thompson?,0
+1,Who finished 1st in the race?,0
+1,Which country did Kevin Cogan represent?,1
+1,Who won the race in 1995?,2
+1,Which driver finished 4th and represented Colombia?,3
+1,"What was the lap time of Al Unser, Jr.?",4
+1,Which country did Michael Andretti represent?,5
+1,Who finished 8th and represented the United States?,7
+1,Which driver was flagged in the race?,6
+1,Who finished 20th and represented Brazil?,18
+1,What was the cause of Rich Vogler's retirement?,24
+2,Who released the album 'First Love'?,0
+2,"What was the release date of 'B'z The Best Pleasure""'?""",1
+2,Which artist released the album 'Review'?,2
+2,What was the sales of the album 'Distance'?,3
+2,"Who is the artist of 'B'z The Best Treasure""'?""",4
+2,When was the album 'A Best' released?,5
+2,Which album was released by Globe in 1996?,6
+2,What is the sales figure for 'Deep River'?,7
+2,What was the release date of 'Umi no Yeah!!'?,8
+2,Who released 'Sweet 19 Blues' and what were the sales?,12
+3,How many Airbus A320-200 aircraft are in service?,0
+3,What is the passenger capacity of the Boeing 737-800?,1
+3,How many aircraft are in service in total?,2
+3,What does the note for the Airbus A320-200 indicate?,0
+3,What is the total number of Boeing 737-800 aircraft ordered?,1
+3,How many orders are there for the Airbus A320-200?,0
+3,Which aircraft type was transferred from Virgin Australia?,1
+3,What is the note about the Boeing 737-800 aircraft?,1
+3,What is the number of orders for the Airbus A320-200?,0
+3,How many passengers can the Boeing 737-800 carry?,1
+4,What role did Winthrop Paroo play in 'The Music Man'?,0
+4,"Which venue hosted the 'Caroline, or Change' production?",1
+4,In which production did Philip Griswald appear in 2005?,2
+4,What was the role of Ricky Duff in 'The Power of Duff'?,3
+4,Which production did Chris Thurser appear in 2012?,4
+4,Where was 'The Book of Mormon' performed in 2012–2013?,5
+4,What is the venue for 'Dear Evan Hansen' in 2015?,7
+4,Who played Dickon in 'The Secret Garden' in 2016?,8
+4,In which venue was 'Dear Evan Hansen' performed Off-Broadway?,9
+4,What was the status of 'Parade' in 2018?,11
+5,What is the maximum downlink data rate for NB1?,0
+5,Which 3GPP release is associated with the M1 equipment?,1
+5,What is the maximum uplink data rate for equipment category 1?,3
+5,How many MIMO layers are supported by equipment category 3?,5
+5,What is the maximum uplink data rate for equipment category 5?,7
+5,What is the maximum number of MIMO layers for equipment category 9?,11
+5,Which 3GPP release is associated with equipment category 13?,15
+5,What is the maximum downlink data rate for equipment category 10?,10
+5,What is the maximum uplink data rate for equipment category 4?,6
+5,What is the maximum downlink data rate for equipment category 17?,19
+6,What was the role of Eleni Andros Cooper in Guiding Light?,0
+6,How many episodes did Victoria Metcalf appear in Due South?,1
+6,What role did Angela Villanova play in New York News?,2
+6,How many episodes did Benita Alden appear in NYPD Blue?,3
+6,What was Libby Galante's role in Leaving L.A.?,4
+6,What episodes did Andrea Wexler appear in The Practice?,5
+6,What role did A.D.A. Marilyn Crenshaw play in Oz?,6
+6,What was Rita's role in Saint Maybe?,7
+6,What was Dr. Sydney Hansen's role in Providence?,8
+6,How many episodes did Detective Stella Bonasera appear in CSI: NY?,10
+7,What was the total number of games played by Airdrie Xtreme in the 2004–05 season?,1
+7,How many goals did Airdrie Xtreme score in the 2005–06 season?,2
+7,What was the number of assists by UFA Bisons in the 2006–07 season?,3
+7,How many penalty minutes did UFA Bisons have in the 2007–08 season?,4
+7,What was the number of goals scored by Lethbridge Hurricanes in the 2008–09 season?,6
+7,How many points did Lethbridge Hurricanes achieve in the 2009–10 season?,7
+7,What was the total number of games played by Vancouver Giants in the 2011–12 season?,9
+7,How many assists did Idaho Steelheads get in the 2012–13 season?,10
+7,How many goals did Texas Stars score in the 2013–14 season?,12
+7,What was the number of points scored by Providence Bruins in the 2018–19 season?,20
+8,What year did Russia win gold in the ice hockey tournament?,1
+8,Which team won silver in the 2017 ice hockey tournament?,2
+8,Which team won bronze in the 2016 ice hockey tournament?,3
+8,What is the host city for the 2015 ice hockey tournament?,4
+8,What team won silver in the 2014 (Nov.) ice hockey tournament?,5
+8,What year did Canada Ontario win gold in the ice hockey tournament?,9
+8,What is the host city for the 2012 ice hockey tournament?,8
+8,Which team won bronze in the 2006 ice hockey tournament?,14
+8,What is the host city for the 2005 ice hockey tournament?,15
+8,Which team won gold in the 1990 ice hockey tournament?,29
+9,What was the total number of goals scored by Elbasani in the Albanian Superliga?,6
+9,How many total appearances did Elbasani make in the 2008–09 season?,3
+9,How many goals did Teuta Durrës score in the 2011–12 Albanian Superliga season?,7
+9,What was the total number of appearances for Teuta Durrës in the Albanian Superliga?,10
+9,How many goals did Bylis Ballsh score in the 2016–17 Albanian First Division?,14
+9,What was the total number of goals scored by Bylis Ballsh across all seasons?,15
+9,How many total appearances did Elbasani make in the 2009–10 Albanian First Division?,4
+9,What was the total number of goals scored by Teuta Durrës in the 2012–13 Albanian Superliga?,8
+9,What was the total number of goals scored by Trepça'89 in the 2018–19 Football Superleague of Kosovo?,17
+9,What is the total number of goals scored in the career total across all teams?,18
