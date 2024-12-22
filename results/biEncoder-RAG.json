@@ -1,0 +1,477 @@
+[
+    {
+        "namespace": "1982_Illinois_gubernatorial_election_Results",
+        "question": "Who won the 1982 Illinois gubernatorial election, and how many votes was the margin?",
+        "K": 1,
+        "retrievedResults": [
+            {
+                "Party": "-",
+                "Party 1": "Republican",
+                "Candidate": "James R. Thompson (incumbent)",
+                "Votes": "1,816,101",
+                "%": "49.44",
+                "±": "-"
+            }
+        ]
+    },
+    {
+        "namespace": "1986_Indianapolis_500_Race_box_score",
+        "question": "How did Michael and Mario Andretti do?",
+        "K": 7,
+        "retrievedResults": [
+            {
+                "Finish": "1",
+                "Start": "4",
+                "No": "3",
+                "Name": "United States Bobby Rahal",
+                "Qual": "213.550",
+                "Laps": "200",
+                "Status": "170.722 mph"
+            },
+            {
+                "Finish": "4",
+                "Start": "8",
+                "No": "5",
+                "Name": "Colombia Roberto Guerrero",
+                "Qual": "211.576",
+                "Laps": "200",
+                "Status": "+10.558 seconds"
+            },
+            {
+                "Finish": "2",
+                "Start": "6",
+                "No": "7",
+                "Name": "United States Kevin Cogan",
+                "Qual": "211.922",
+                "Laps": "200",
+                "Status": "+1.441 seconds"
+            },
+            {
+                "Finish": "3",
+                "Start": "1",
+                "No": "4",
+                "Name": "United States Rick Mears (W)",
+                "Qual": "216.828",
+                "Laps": "200",
+                "Status": "+1.881 seconds"
+            },
+            {
+                "table_section_title": "Race box score"
+            },
+            {
+                "Finish": "5",
+                "Start": "9",
+                "No": "30",
+                "Name": "United States Al Unser, Jr.",
+                "Qual": "211.533",
+                "Laps": "199",
+                "Status": "Flagged"
+            },
+            {
+                "Finish": "6",
+                "Start": "3",
+                "No": "18",
+                "Name": "United States Michael Andretti",
+                "Qual": "214.522",
+                "Laps": "199",
+                "Status": "Flagged"
+            }
+        ]
+    },
+    {
+        "namespace": "List_of_best-selling_albums_in_Japan_List_of_best-selling_albums_by_domestic_acts",
+        "question": "How many copies did \"Pleasure\" sell in 1998 alone, and how long was it the best selling album in Japan?",
+        "K": 7,
+        "retrievedResults": [
+            {
+                "No.": "6",
+                "Album": "A Best",
+                "Artist": "Ayumi Hamasaki",
+                "Released": "28 March 2001",
+                "Chart": "1",
+                "Sales": "4,312,000"
+            },
+            {
+                "No.": "9",
+                "Album": "Umi no Yeah!!",
+                "Artist": "Southern All Stars",
+                "Released": "25 June 1998",
+                "Chart": "1",
+                "Sales": "3,592,000"
+            },
+            {
+                "No.": "4",
+                "Album": "Distance",
+                "Artist": "Hikaru Utada",
+                "Released": "28 March 2001",
+                "Chart": "1",
+                "Sales": "4,472,000"
+            },
+            {
+                "No.": "1",
+                "Album": "First Love",
+                "Artist": "Hikaru Utada",
+                "Released": "10 March 1999",
+                "Chart": "1",
+                "Sales": "7,672,000"
+            },
+            {
+                "No.": "8",
+                "Album": "Deep River",
+                "Artist": "Hikaru Utada",
+                "Released": "19 June 2002",
+                "Chart": "1",
+                "Sales": "3,605,000"
+            },
+            {
+                "table_section_title": "List of best-selling albums by domestic acts"
+            },
+            {
+                "No.": "5",
+                "Album": "B'z The Best \"Treasure\"",
+                "Artist": "B'z",
+                "Released": "20 September 1998",
+                "Chart": "1",
+                "Sales": "4,439,000"
+            }
+        ]
+    },
+    {
+        "namespace": "Tigerair_Australia_Fleet",
+        "question": "How many passengers can that plane hold?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Aircraft": "Boeing 737-800",
+                "In Service": "5",
+                "Orders": "—",
+                "Passengers": "186",
+                "Notes": "Aircraft transferred from Virgin Australia"
+            },
+            {
+                "Aircraft": "Airbus A320-200",
+                "In Service": "10",
+                "Orders": "—",
+                "Passengers": "180",
+                "Notes": "All to be replaced by Boeing 737-800. Aircraft to be transferred to Virgin Australia Regional Airlines."
+            },
+            {
+                "Notes": [
+                    "All to be replaced by Boeing 737-800. Aircraft to be transferred to Virgin Australia Regional Airlines.",
+                    "Aircraft transferred from Virgin Australia",
+                    "-"
+                ]
+            }
+        ]
+    },
+    {
+        "namespace": "Ben_Platt_actor_Theatre_credits",
+        "question": "When and in what play did Platt appear at the Music Box Theatre?",
+        "K": 2,
+        "retrievedResults": [
+            {
+                "Year": "2015",
+                "Production": "Dear Evan Hansen",
+                "Role": "Evan Hansen",
+                "Venue": "Arena Stage",
+                "Notes": "Washington, D.C."
+            },
+            {
+                "Year": "2012",
+                "Production": "The Black Suits",
+                "Role": "Chris Thurser",
+                "Venue": "Center Theatre Group",
+                "Notes": "Regional"
+            }
+        ]
+    },
+    {
+        "namespace": "E-UTRA_User_Equipment_UE_categories",
+        "question": "What are the download rates of EUTRAN?",
+        "K": 7,
+        "retrievedResults": [
+            {
+                "table_section_title": "User Equipment (UE) categories"
+            },
+            {
+                "table_page_title": "E-UTRA"
+            },
+            {
+                "User equipment Category": "5",
+                "Max. L1 data rate Downlink (Mbit/s)": "299.6",
+                "Max. number of DL MIMO layers": "4",
+                "Max. L1 data rate Uplink (Mbit/s)": "75.4",
+                "3GPP Release": "Rel 8"
+            },
+            {
+                "User equipment Category": "1",
+                "Max. L1 data rate Downlink (Mbit/s)": "10.3",
+                "Max. number of DL MIMO layers": "1",
+                "Max. L1 data rate Uplink (Mbit/s)": "5.2",
+                "3GPP Release": "Rel 8"
+            },
+            {
+                "User equipment Category": "4",
+                "Max. L1 data rate Downlink (Mbit/s)": "150.8",
+                "Max. number of DL MIMO layers": "2",
+                "Max. L1 data rate Uplink (Mbit/s)": "51.0",
+                "3GPP Release": "Rel 8"
+            },
+            {
+                "User equipment Category": "3",
+                "Max. L1 data rate Downlink (Mbit/s)": "102.0",
+                "Max. number of DL MIMO layers": "2",
+                "Max. L1 data rate Uplink (Mbit/s)": "51.0",
+                "3GPP Release": "Rel 8"
+            },
+            {
+                "User equipment Category": "M1",
+                "Max. L1 data rate Downlink (Mbit/s)": "1.0",
+                "Max. number of DL MIMO layers": "1",
+                "Max. L1 data rate Uplink (Mbit/s)": "1.0",
+                "3GPP Release": "Rel 13"
+            }
+        ]
+    },
+    {
+        "namespace": "Melina_Kanakaredes_Television",
+        "question": "What roles did Melina Kanakaredes play in the television dramas; \"Providence (1999–2002)\", \"CSI: NY (2004–2010)\",\"Guiding Light\"?",
+        "K": 7,
+        "retrievedResults": [
+            {
+                "Year": "1998",
+                "Title": "Oz",
+                "Role": "A.D.A. Marilyn Crenshaw",
+                "Notes": "Episode: \"Great Men\""
+            },
+            {
+                "Year": "1991–1995",
+                "Title": "Guiding Light",
+                "Role": "Eleni Andros Cooper",
+                "Notes": "Main cast"
+            },
+            {
+                "Year": "1995",
+                "Title": "Due South",
+                "Role": "Victoria Metcalf",
+                "Notes": "3 episodes"
+            },
+            {
+                "Year": "1999–2002",
+                "Title": "Providence",
+                "Role": "Dr. Sydney Hansen",
+                "Notes": "Lead role"
+            },
+            {
+                "table_page_title": "Melina Kanakaredes"
+            },
+            {
+                "Year": "1997",
+                "Title": "The Practice",
+                "Role": "Andrea Wexler",
+                "Notes": "Episodes: \"First Degree\", \"Sex, Lies and Monkeys\""
+            },
+            {
+                "Year": "2004–2010",
+                "Title": "CSI: NY",
+                "Role": "Detective Stella Bonasera",
+                "Notes": "Lead role"
+            }
+        ]
+    },
+    {
+        "namespace": "Austin_Fyten_Career_statistics",
+        "question": "What two teams did Austin Fyten play for during the 2015-16 season, and what league was the first team in?",
+        "K": 2,
+        "retrievedResults": [
+            {
+                "-": "2004–05",
+                "- 1": "Airdrie Xtreme",
+                "- 2": "AMBHL",
+                "Regular season": "-",
+                "Regular season 1": "37",
+                "Regular season 2": "19",
+                "Regular season 3": "20",
+                "Regular season 4": "39",
+                "Playoffs": "28",
+                "Playoffs 1": "-",
+                "Playoffs 2": "4",
+                "Playoffs 3": "2",
+                "Playoffs 4": "3",
+                "- 3": "5",
+                "- 4": "6"
+            },
+            {
+                "-": "2005–06",
+                "- 1": "Airdrie Xtreme",
+                "- 2": "AMBHL",
+                "Regular season": "-",
+                "Regular season 1": "34",
+                "Regular season 2": "23",
+                "Regular season 3": "23",
+                "Regular season 4": "46",
+                "Playoffs": "62",
+                "Playoffs 1": "-",
+                "Playoffs 2": "4",
+                "Playoffs 3": "3",
+                "Playoffs 4": "5",
+                "- 3": "8",
+                "- 4": "8"
+            }
+        ]
+    },
+    {
+        "namespace": "World_U-17_Hockey_Challenge_Results",
+        "question": "What countries did the World U-17 Hockey Challenge attract after 2016?",
+        "K": 7,
+        "retrievedResults": [
+            {
+                "Year": "2015",
+                "Gold": "Canada White",
+                "Silver": "Russia",
+                "Bronze": "Sweden",
+                "Host city (cities)": "British Columbia Dawson Creek and Fort St. John"
+            },
+            {
+                "Year": "2017",
+                "Gold": "United States",
+                "Silver": "Canada Red",
+                "Bronze": "Czech Republic",
+                "Host city (cities)": "British Columbia Dawson Creek and Fort St. John"
+            },
+            {
+                "Year": "2016",
+                "Gold": "Sweden",
+                "Silver": "Canada Black",
+                "Bronze": "Russia",
+                "Host city (cities)": "Ontario Sault Ste. Marie"
+            },
+            {
+                "Year": "2018",
+                "Gold": "Russia",
+                "Silver": "Finland",
+                "Bronze": "Sweden",
+                "Host city (cities)": "New Brunswick Quispamsis and Saint John"
+            },
+            {
+                "Year": "2014 (Nov.)",
+                "Gold": "Russia",
+                "Silver": "United States",
+                "Bronze": "Sweden",
+                "Host city (cities)": "Ontario Sarnia and Lambton Shores"
+            },
+            {
+                "Year": "2005",
+                "Gold": "Canada West",
+                "Silver": "Canada Pacific",
+                "Bronze": "Canada Atlantic",
+                "Host city (cities)": "Alberta Lethbridge"
+            },
+            {
+                "Year": "2012",
+                "Gold": "Russia",
+                "Silver": "United States",
+                "Bronze": "Canada Ontario",
+                "Host city (cities)": "Ontario Windsor"
+            }
+        ]
+    },
+    {
+        "namespace": "Renato_Hyshmeri_Career_statistics",
+        "question": "Which club did Renato Hyshmeri play with in the 2014–15 Albanian Superliga season after leaving Partizani?",
+        "K": 7,
+        "retrievedResults": [
+            {
+                "Club": "Elbasani",
+                "Season": "2009–10",
+                "League": "Albanian First Division",
+                "League 1": "13",
+                "League 2": "3",
+                "Cup": "0",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "13",
+                "Total 1": "3"
+            },
+            {
+                "Club": "Bylis Ballsh",
+                "Season": "Total",
+                "League": "Total",
+                "League 1": "51",
+                "League 2": "6",
+                "Cup": "6",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "57",
+                "Total 1": "6"
+            },
+            {
+                "Club": "Teuta Durrës",
+                "Season": "Total",
+                "League": "Total",
+                "League 1": "44",
+                "League 2": "4",
+                "Cup": "8",
+                "Cup 1": "0",
+                "Europe": "2",
+                "Europe 1": "0",
+                "Total": "54",
+                "Total 1": "4"
+            },
+            {
+                "Club": "Elbasani",
+                "Season": "Total",
+                "League": "Total",
+                "League 1": "81",
+                "League 2": "7",
+                "Cup": "4",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "81",
+                "Total 1": "7"
+            },
+            {
+                "Club": "Teuta Durrës",
+                "Season": "2012–13",
+                "League": "Albanian Superliga",
+                "League 1": "21",
+                "League 2": "1",
+                "Cup": "4",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "25",
+                "Total 1": "1"
+            },
+            {
+                "Club": "Trepça'89",
+                "Season": "2018–19",
+                "League": "Football Superleague of Kosovo",
+                "League 1": "19",
+                "League 2": "0",
+                "Cup": "0",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "19",
+                "Total 1": "0"
+            },
+            {
+                "Club": "Elbasani",
+                "Season": "2008–09",
+                "League": "Albanian Superliga",
+                "League 1": "28",
+                "League 2": "3",
+                "Cup": "4",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "32",
+                "Total 1": "3"
+            }
+        ]
+    }
+]

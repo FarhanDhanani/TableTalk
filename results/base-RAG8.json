@@ -1,0 +1,988 @@
+[
+    {
+        "namespace": "1982_Illinois_gubernatorial_election_Results",
+        "question": "Who won the 1982 Illinois gubernatorial election, and how many votes was the margin?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Party": "-",
+                "Party 1": "Republican",
+                "Candidate": "James R. Thompson (incumbent)",
+                "Votes": "1,816,101",
+                "%": "49.44",
+                "±": "-"
+            },
+            {
+                "Candidate": [
+                    "James R. Thompson (incumbent)",
+                    "Adlai Stevenson III",
+                    "Bea Armstrong",
+                    "John E. Roche",
+                    "write-ins",
+                    "Majority",
+                    "Turnout",
+                    "Republican hold"
+                ]
+            },
+            {
+                "table_page_title": "1982 Illinois gubernatorial election"
+            },
+            {
+                "Party": "-",
+                "Party 1": "Democratic",
+                "Candidate": "Adlai Stevenson III",
+                "Votes": "1,811,027",
+                "%": "49.30",
+                "±": "-"
+            },
+            {
+                "Party": "-",
+                "Party 1": "Taxpayers",
+                "Candidate": "John E. Roche",
+                "Votes": "22,001",
+                "%": "0.60",
+                "±": "-"
+            },
+            {
+                "Party": "-",
+                "Party 1": "Republican hold",
+                "Candidate": "Republican hold",
+                "Votes": "Swing",
+                "%": "-",
+                "±": "-"
+            },
+            {
+                "Votes": [
+                    "1,816,101",
+                    "1,811,027",
+                    "24,417",
+                    "22,001",
+                    "161",
+                    "5,074",
+                    "3,673,707",
+                    "Swing"
+                ]
+            },
+            {
+                "Party": "-",
+                "Party 1": "Libertarian",
+                "Candidate": "Bea Armstrong",
+                "Votes": "24,417",
+                "%": "0.66",
+                "±": "-"
+            }
+        ]
+    },
+    {
+        "namespace": "1986_Indianapolis_500_Race_box_score",
+        "question": "How did Michael and Mario Andretti do?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Finish": "6",
+                "Start": "3",
+                "No": "18",
+                "Name": "United States Michael Andretti",
+                "Qual": "214.522",
+                "Laps": "199",
+                "Status": "Flagged"
+            },
+            {
+                "Finish": "32",
+                "Start": "30",
+                "No": "2",
+                "Name": "United States Mario Andretti (W)",
+                "Qual": "212.300",
+                "Laps": "19",
+                "Status": "Ignition"
+            },
+            {
+                "Finish": "3",
+                "Start": "1",
+                "No": "4",
+                "Name": "United States Rick Mears (W)",
+                "Qual": "216.828",
+                "Laps": "200",
+                "Status": "+1.881 seconds"
+            },
+            {
+                "Name": [
+                    "United States Bobby Rahal",
+                    "United States Kevin Cogan",
+                    "United States Rick Mears (W)",
+                    "Colombia Roberto Guerrero",
+                    "United States Al Unser, Jr.",
+                    "United States Michael Andretti",
+                    "Brazil Emerson Fittipaldi",
+                    "United States Johnny Rutherford (W)",
+                    "United States Danny Sullivan (W)",
+                    "United States Randy Lanier (R)",
+                    "United States Gary Bettenhausen",
+                    "Australia Geoff Brabham",
+                    "Brazil Raul Boesel",
+                    "United States Dick Simon",
+                    "Netherlands Arie Luyendyk",
+                    "United States Pancho Carter",
+                    "United States Ed Pimm",
+                    "Mexico Josele Garza",
+                    "Brazil Roberto Moreno (R)",
+                    "Canada Jacques Villeneuve (R)",
+                    "United States Chip Ganassi",
+                    "United States Al Unser (W)",
+                    "United States Danny Ongais",
+                    "United States A. J. Foyt (W)",
+                    "United States Rich Vogler",
+                    "United States George Snider",
+                    "United States Johnny Parsons",
+                    "United States Tony Bettenhausen, Jr.",
+                    "United Kingdom Jim Crawford",
+                    "United States Scott Brayton",
+                    "United States Phil Krueger (R)",
+                    "United States Mario Andretti (W)",
+                    "United States Tom Sneva (W)"
+                ]
+            },
+            {
+                "Finish": "23",
+                "Start": "16",
+                "No": "25",
+                "Name": "United States Danny Ongais",
+                "Qual": "209.158",
+                "Laps": "136",
+                "Status": "Ignition"
+            },
+            {
+                "Finish": "5",
+                "Start": "9",
+                "No": "30",
+                "Name": "United States Al Unser, Jr.",
+                "Qual": "211.533",
+                "Laps": "199",
+                "Status": "Flagged"
+            },
+            {
+                "Finish": "28",
+                "Start": "18",
+                "No": "16",
+                "Name": "United States Tony Bettenhausen, Jr.",
+                "Qual": "208.933",
+                "Laps": "77",
+                "Status": "Valve Spring"
+            },
+            {
+                "Finish": "15",
+                "Start": "19",
+                "No": "61",
+                "Name": "Netherlands Arie Luyendyk",
+                "Qual": "207.811",
+                "Laps": "188",
+                "Status": "Crash T4"
+            }
+        ]
+    },
+    {
+        "namespace": "List_of_best-selling_albums_in_Japan_List_of_best-selling_albums_by_domestic_acts",
+        "question": "How many copies did \"Pleasure\" sell in 1998 alone, and how long was it the best selling album in Japan?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "No.": "2",
+                "Album": "B'z The Best \"Pleasure\"",
+                "Artist": "B'z",
+                "Released": "20 May 1998",
+                "Chart": "1",
+                "Sales": "5,136,000"
+            },
+            {
+                "No.": "6",
+                "Album": "A Best",
+                "Artist": "Ayumi Hamasaki",
+                "Released": "28 March 2001",
+                "Chart": "1",
+                "Sales": "4,312,000"
+            },
+            {
+                "No.": "1",
+                "Album": "First Love",
+                "Artist": "Hikaru Utada",
+                "Released": "10 March 1999",
+                "Chart": "1",
+                "Sales": "7,672,000"
+            },
+            {
+                "No.": "5",
+                "Album": "B'z The Best \"Treasure\"",
+                "Artist": "B'z",
+                "Released": "20 September 1998",
+                "Chart": "1",
+                "Sales": "4,439,000"
+            },
+            {
+                "No.": "19",
+                "Album": "Zard Best the Single Collection ～軌跡～",
+                "Artist": "Zard",
+                "Released": "28 May 1999",
+                "Chart": "1",
+                "Sales": "3,034,000"
+            },
+            {
+                "No.": "13",
+                "Album": "Sweet 19 Blues",
+                "Artist": "Namie Amuro",
+                "Released": "22 July 1996",
+                "Chart": "1",
+                "Sales": "3,359,000"
+            },
+            {
+                "No.": "18",
+                "Album": "Impressions",
+                "Artist": "Mariya Takeuchi",
+                "Released": "25 July 1994",
+                "Chart": "1",
+                "Sales": "3,067,000"
+            },
+            {
+                "No.": "15",
+                "Album": "Neue Musik",
+                "Artist": "Yumi Matsutoya",
+                "Released": "6 November 1998",
+                "Chart": "1",
+                "Sales": "3,252,000"
+            }
+        ]
+    },
+    {
+        "namespace": "Tigerair_Australia_Fleet",
+        "question": "How many passengers can that plane hold?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Passengers": [
+                    "180",
+                    "186",
+                    "-"
+                ]
+            },
+            {
+                "Aircraft": "Airbus A320-200",
+                "In Service": "10",
+                "Orders": "—",
+                "Passengers": "180",
+                "Notes": "All to be replaced by Boeing 737-800. Aircraft to be transferred to Virgin Australia Regional Airlines."
+            },
+            {
+                "Aircraft": "Boeing 737-800",
+                "In Service": "5",
+                "Orders": "—",
+                "Passengers": "186",
+                "Notes": "Aircraft transferred from Virgin Australia"
+            },
+            {
+                "Aircraft": "Total",
+                "In Service": "15",
+                "Orders": "-",
+                "Passengers": "-",
+                "Notes": "-"
+            },
+            {
+                "Aircraft": [
+                    "Airbus A320-200",
+                    "Boeing 737-800",
+                    "Total"
+                ]
+            },
+            {
+                "Notes": [
+                    "All to be replaced by Boeing 737-800. Aircraft to be transferred to Virgin Australia Regional Airlines.",
+                    "Aircraft transferred from Virgin Australia",
+                    "-"
+                ]
+            },
+            {
+                "table_page_title": "Tigerair Australia"
+            },
+            {
+                "table_section_title": "Fleet"
+            }
+        ]
+    },
+    {
+        "namespace": "Ben_Platt_actor_Theatre_credits",
+        "question": "When and in what play did Platt appear at the Music Box Theatre?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Year": "2016–2017",
+                "Production": "Dear Evan Hansen",
+                "Role": "Evan Hansen",
+                "Venue": "Music Box Theatre",
+                "Notes": "Broadway"
+            },
+            {
+                "Year": "2012–2013",
+                "Production": "The Book of Mormon",
+                "Role": "Elder Arnold Cunningham",
+                "Venue": "PrivateBank Theatre",
+                "Notes": "Chicago"
+            },
+            {
+                "Year": "2016",
+                "Production": "Dear Evan Hansen",
+                "Role": "Evan Hansen",
+                "Venue": "Second Stage Theatre",
+                "Notes": "Off-Broadway"
+            },
+            {
+                "Year": "2014–2015",
+                "Production": "The Book of Mormon",
+                "Role": "Elder Arnold Cunningham",
+                "Venue": "Eugene O'Neill Theatre",
+                "Notes": "Broadway"
+            },
+            {
+                "Year": "2004",
+                "Production": "Caroline, or Change",
+                "Role": "Noah Gellman",
+                "Venue": "Ahmanson Theatre",
+                "Notes": "National tour"
+            },
+            {
+                "Year": "2005",
+                "Production": "Dead End",
+                "Role": "Philip Griswald",
+                "Venue": "Ahmanson Theatre",
+                "Notes": "Regional"
+            },
+            {
+                "Year": "2002",
+                "Production": "The Music Man",
+                "Role": "Winthrop Paroo",
+                "Venue": "Hollywood Bowl",
+                "Notes": "Los Angeles"
+            },
+            {
+                "Year": "2012",
+                "Production": "The Black Suits",
+                "Role": "Chris Thurser",
+                "Venue": "Center Theatre Group",
+                "Notes": "Regional"
+            }
+        ]
+    },
+    {
+        "namespace": "E-UTRA_User_Equipment_UE_categories",
+        "question": "What are the download rates of EUTRAN?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Max. L1 data rate Downlink (Mbit/s)": [
+                    "0.68",
+                    "1.0",
+                    "1.0",
+                    "10.3",
+                    "51.0",
+                    "102.0",
+                    "150.8",
+                    "299.6",
+                    "301.5",
+                    "301.5",
+                    "2,998.6",
+                    "452.2",
+                    "452.2",
+                    "603.0",
+                    "603.0",
+                    "391.7",
+                    "391.7",
+                    "750",
+                    "979",
+                    "25,065",
+                    "1,174",
+                    "1,566"
+                ]
+            },
+            {
+                "Max. L1 data rate Uplink (Mbit/s)": [
+                    "1.0",
+                    "1.0",
+                    "1.0",
+                    "5.2",
+                    "25.5",
+                    "51.0",
+                    "51.0",
+                    "75.4",
+                    "51.0",
+                    "102.0",
+                    "1,497.8",
+                    "51.0",
+                    "102.0",
+                    "51.0",
+                    "102.0",
+                    "150.8",
+                    "9,585",
+                    "226",
+                    "n/a",
+                    "n/a",
+                    "n/a",
+                    "n/a"
+                ]
+            },
+            {
+                "User equipment Category": "10",
+                "Max. L1 data rate Downlink (Mbit/s)": "452.2",
+                "Max. number of DL MIMO layers": "2 or 4",
+                "Max. L1 data rate Uplink (Mbit/s)": "102.0",
+                "3GPP Release": "Rel 11"
+            },
+            {
+                "User equipment Category": "7",
+                "Max. L1 data rate Downlink (Mbit/s)": "301.5",
+                "Max. number of DL MIMO layers": "2 or 4",
+                "Max. L1 data rate Uplink (Mbit/s)": "102.0",
+                "3GPP Release": "Rel 10"
+            },
+            {
+                "User equipment Category": "1",
+                "Max. L1 data rate Downlink (Mbit/s)": "10.3",
+                "Max. number of DL MIMO layers": "1",
+                "Max. L1 data rate Uplink (Mbit/s)": "5.2",
+                "3GPP Release": "Rel 8"
+            },
+            {
+                "User equipment Category": "6",
+                "Max. L1 data rate Downlink (Mbit/s)": "301.5",
+                "Max. number of DL MIMO layers": "2 or 4",
+                "Max. L1 data rate Uplink (Mbit/s)": "51.0",
+                "3GPP Release": "Rel 10"
+            },
+            {
+                "User equipment Category": "9",
+                "Max. L1 data rate Downlink (Mbit/s)": "452.2",
+                "Max. number of DL MIMO layers": "2 or 4",
+                "Max. L1 data rate Uplink (Mbit/s)": "51.0",
+                "3GPP Release": "Rel 11"
+            },
+            {
+                "User equipment Category": "13",
+                "Max. L1 data rate Downlink (Mbit/s)": "391.7",
+                "Max. number of DL MIMO layers": "2 or 4",
+                "Max. L1 data rate Uplink (Mbit/s)": "150.8",
+                "3GPP Release": "Rel 12"
+            }
+        ]
+    },
+    {
+        "namespace": "Melina_Kanakaredes_Television",
+        "question": "What roles did Melina Kanakaredes play in the television dramas; \"Providence (1999–2002)\", \"CSI: NY (2004–2010)\",\"Guiding Light\"?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Year": "1999–2002",
+                "Title": "Providence",
+                "Role": "Dr. Sydney Hansen",
+                "Notes": "Lead role"
+            },
+            {
+                "Year": "2004–2010",
+                "Title": "CSI: NY",
+                "Role": "Detective Stella Bonasera",
+                "Notes": "Lead role"
+            },
+            {
+                "Year": "1991–1995",
+                "Title": "Guiding Light",
+                "Role": "Eleni Andros Cooper",
+                "Notes": "Main cast"
+            },
+            {
+                "table_page_title": "Melina Kanakaredes"
+            },
+            {
+                "Role": [
+                    "Eleni Andros Cooper",
+                    "Victoria Metcalf",
+                    "Angela Villanova",
+                    "Benita Alden",
+                    "Libby Galante",
+                    "Andrea Wexler",
+                    "A.D.A. Marilyn Crenshaw",
+                    "Rita",
+                    "Dr. Sydney Hansen",
+                    "Detective Stella Bonasera",
+                    "Detective Stella Bonasera",
+                    "Catrina / Sabrina Hampton",
+                    "Special Agent Kathy Millwood",
+                    "Dorothy Richter",
+                    "Dana Hartman",
+                    "Dr. Lane Hunter"
+                ]
+            },
+            {
+                "Year": "2004",
+                "Title": "CSI: Miami",
+                "Role": "Detective Stella Bonasera",
+                "Notes": "Episode: \"MIA/NYC Nonstop\""
+            },
+            {
+                "Title": [
+                    "Guiding Light",
+                    "Due South",
+                    "New York News",
+                    "NYPD Blue",
+                    "Leaving L.A.",
+                    "The Practice",
+                    "Oz",
+                    "Saint Maybe",
+                    "Providence",
+                    "CSI: Miami",
+                    "CSI: NY",
+                    "Into the Fire",
+                    "Hawaii Five-0",
+                    "Extant",
+                    "Notorious",
+                    "The Resident"
+                ]
+            },
+            {
+                "Year": "1995",
+                "Title": "New York News",
+                "Role": "Angela Villanova",
+                "Notes": "13 episodes"
+            }
+        ]
+    },
+    {
+        "namespace": "Austin_Fyten_Career_statistics",
+        "question": "What two teams did Austin Fyten play for during the 2015-16 season, and what league was the first team in?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "- 2": [
+                    "League",
+                    "AMBHL",
+                    "AMBHL",
+                    "AMHL",
+                    "AMHL",
+                    "WHL",
+                    "WHL",
+                    "WHL",
+                    "WHL",
+                    "WHL",
+                    "ECHL",
+                    "AHL",
+                    "AHL",
+                    "ECHL",
+                    "AHL",
+                    "ECHL",
+                    "AHL",
+                    "AHL",
+                    "AHL",
+                    "ECHL",
+                    "AHL",
+                    "AHL",
+                    "AHL totals"
+                ]
+            },
+            {
+                "- 1": [
+                    "Team",
+                    "Airdrie Xtreme",
+                    "Airdrie Xtreme",
+                    "UFA Bisons",
+                    "UFA Bisons",
+                    "Lethbridge Hurricanes",
+                    "Lethbridge Hurricanes",
+                    "Lethbridge Hurricanes",
+                    "Lethbridge Hurricanes",
+                    "Vancouver Giants",
+                    "Idaho Steelheads",
+                    "Texas Stars",
+                    "Oklahoma City Barons",
+                    "Idaho Steelheads",
+                    "Lehigh Valley Phantoms",
+                    "South Carolina Stingrays",
+                    "Hershey Bears",
+                    "Texas Stars",
+                    "Texas Stars",
+                    "Idaho Steelheads",
+                    "Providence Bruins",
+                    "Belleville Senators",
+                    "AHL totals"
+                ]
+            },
+            {
+                "table_page_title": "Austin Fyten"
+            },
+            {
+                "-": "2006–07",
+                "- 1": "UFA Bisons",
+                "- 2": "AMHL",
+                "Regular season": "-",
+                "Regular season 1": "27",
+                "Regular season 2": "2",
+                "Regular season 3": "10",
+                "Regular season 4": "12",
+                "Playoffs": "34",
+                "Playoffs 1": "-",
+                "Playoffs 2": "8",
+                "Playoffs 3": "2",
+                "Playoffs 4": "2",
+                "- 3": "4",
+                "- 4": "18"
+            },
+            {
+                "-": "2012–13",
+                "- 1": "Idaho Steelheads",
+                "- 2": "ECHL",
+                "Regular season": "-",
+                "Regular season 1": "46",
+                "Regular season 2": "14",
+                "Regular season 3": "27",
+                "Regular season 4": "41",
+                "Playoffs": "55",
+                "Playoffs 1": "-",
+                "Playoffs 2": "17",
+                "Playoffs 3": "5",
+                "Playoffs 4": "6",
+                "- 3": "11",
+                "- 4": "10"
+            },
+            {
+                "-": "2004–05",
+                "- 1": "Airdrie Xtreme",
+                "- 2": "AMBHL",
+                "Regular season": "-",
+                "Regular season 1": "37",
+                "Regular season 2": "19",
+                "Regular season 3": "20",
+                "Regular season 4": "39",
+                "Playoffs": "28",
+                "Playoffs 1": "-",
+                "Playoffs 2": "4",
+                "Playoffs 3": "2",
+                "Playoffs 4": "3",
+                "- 3": "5",
+                "- 4": "6"
+            },
+            {
+                "-": "2013–14",
+                "- 1": "Idaho Steelheads",
+                "- 2": "ECHL",
+                "Regular season": "-",
+                "Regular season 1": "15",
+                "Regular season 2": "9",
+                "Regular season 3": "6",
+                "Regular season 4": "15",
+                "Playoffs": "37",
+                "Playoffs 1": "-",
+                "Playoffs 2": "—",
+                "Playoffs 3": "—",
+                "Playoffs 4": "—",
+                "- 3": "—",
+                "- 4": "—"
+            },
+            {
+                "-": "2013–14",
+                "- 1": "Oklahoma City Barons",
+                "- 2": "AHL",
+                "Regular season": "-",
+                "Regular season 1": "47",
+                "Regular season 2": "7",
+                "Regular season 3": "13",
+                "Regular season 4": "20",
+                "Playoffs": "31",
+                "Playoffs 1": "-",
+                "Playoffs 2": "3",
+                "Playoffs 3": "1",
+                "Playoffs 4": "1",
+                "- 3": "2",
+                "- 4": "0"
+            }
+        ]
+    },
+    {
+        "namespace": "World_U-17_Hockey_Challenge_Results",
+        "question": "What countries did the World U-17 Hockey Challenge attract after 2016?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Host city (cities)": [
+                    "Alberta Medicine Hat and Saskatchewan Swift Current",
+                    "New Brunswick Quispamsis and Saint John",
+                    "British Columbia Dawson Creek and Fort St. John",
+                    "Ontario Sault Ste. Marie",
+                    "British Columbia Dawson Creek and Fort St. John",
+                    "Ontario Sarnia and Lambton Shores",
+                    "Nova Scotia Cape Breton, (Sydney/North Sydney/Port Hawkesbury)",
+                    "Quebec Drummondville and Victoriaville",
+                    "Ontario Windsor",
+                    "Manitoba Winnipeg and Portage la Prairie",
+                    "Ontario Timmins / Iroquois Falls / Cochrane / Kapuskasing / Kirkland Lake / New Liskeard",
+                    "British Columbia Campbell River / Courtenay / Duncan / Nanaimo / Parksville / Port Alberni",
+                    "Ontario London / Lucan / St. Thomas / Stratford / Strathroy / Woodstock",
+                    "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                    "Saskatchewan Balgonie / Fort Qu'Appelle / Indian Head / Milestone / Moose Jaw / Regina / Southey / Weyburn",
+                    "Alberta Lethbridge",
+                    "Newfoundland and Labrador St. John's",
+                    "The ice hockey tournament at the 2003 Canada Games was held in place of a 2003 tournament.",
+                    "Manitoba Selkirk / Stonewall",
+                    "Nova Scotia New Glasgow / Truro",
+                    "Ontario/Quebec Timmins /Chapleau / Cochrane / Haileybury / Hearst / Kapuskasing / Kirkland Lake / New Liskeard / Smooth Rock Falls / Rouyn-Noranda",
+                    "The ice hockey tournament at the 1999 Canada Games was held in place of a 1999 tournament.",
+                    "Saskatchewan Swift Current",
+                    "Ontario Kitchener",
+                    "Alberta Red Deer",
+                    "New Brunswick Moncton",
+                    "Quebec Amos",
+                    "Ontario Sudbury",
+                    "The ice hockey tournament at the 1991 Canada Games was held in place of a 1991 tournament.",
+                    "Quebec Quebec City",
+                    "Quebec Quebec City",
+                    "Quebec Quebec City"
+                ]
+            },
+            {
+                "table_page_title": "World U-17 Hockey Challenge"
+            },
+            {
+                "Bronze": [
+                    "-",
+                    "Sweden",
+                    "Czech Republic",
+                    "Russia",
+                    "Sweden",
+                    "Sweden",
+                    "Russia",
+                    "United States",
+                    "Canada Ontario",
+                    "Canada Pacific",
+                    "Sweden",
+                    "United States",
+                    "Canada West",
+                    "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                    "Czech Republic",
+                    "Canada Atlantic",
+                    "Canada Quebec",
+                    "The ice hockey tournament at the 2003 Canada Games was held in place of a 2003 tournament.",
+                    "Canada Ontario",
+                    "Canada Ontario",
+                    "Canada Pacific",
+                    "The ice hockey tournament at the 1999 Canada Games was held in place of a 1999 tournament.",
+                    "Finland",
+                    "Canada Quebec",
+                    "Canada Quebec",
+                    "Canada Quebec",
+                    "Canada Pacific",
+                    "Czechoslovakia",
+                    "The ice hockey tournament at the 1991 Canada Games was held in place of a 1991 tournament.",
+                    "Soviet Union",
+                    "Canada Quebec",
+                    "Canada Pacific"
+                ]
+            },
+            {
+                "Year": "2017",
+                "Gold": "United States",
+                "Silver": "Canada Red",
+                "Bronze": "Czech Republic",
+                "Host city (cities)": "British Columbia Dawson Creek and Fort St. John"
+            },
+            {
+                "Gold": [
+                    "-",
+                    "Russia",
+                    "United States",
+                    "Sweden",
+                    "Canada White",
+                    "Russia",
+                    "United States",
+                    "Sweden",
+                    "Russia",
+                    "Canada Ontario",
+                    "United States",
+                    "Canada Ontario",
+                    "Canada Ontario",
+                    "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                    "Canada Quebec",
+                    "Canada West",
+                    "Canada Ontario",
+                    "The ice hockey tournament at the 2003 Canada Games was held in place of a 2003 tournament.",
+                    "United States",
+                    "United States",
+                    "Russia",
+                    "The ice hockey tournament at the 1999 Canada Games was held in place of a 1999 tournament.",
+                    "Canada West",
+                    "Canada Ontario",
+                    "Canada Ontario",
+                    "Canada Ontario",
+                    "Canada Quebec",
+                    "Canada Ontario",
+                    "The ice hockey tournament at the 1991 Canada Games was held in place of a 1991 tournament.",
+                    "Finland",
+                    "Soviet Union",
+                    "Canada Quebec"
+                ]
+            },
+            {
+                "Year": "2007",
+                "Gold": "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                "Silver": "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                "Bronze": "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                "Host city (cities)": "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament."
+            },
+            {
+                "Year": "2016",
+                "Gold": "Sweden",
+                "Silver": "Canada Black",
+                "Bronze": "Russia",
+                "Host city (cities)": "Ontario Sault Ste. Marie"
+            },
+            {
+                "Silver": [
+                    "-",
+                    "Finland",
+                    "Canada Red",
+                    "Canada Black",
+                    "Russia",
+                    "United States",
+                    "Canada Pacific",
+                    "Russia",
+                    "United States",
+                    "United States",
+                    "Canada Ontario",
+                    "Canada Pacific",
+                    "United States",
+                    "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                    "United States",
+                    "Canada Pacific",
+                    "Canada Pacific",
+                    "The ice hockey tournament at the 2003 Canada Games was held in place of a 2003 tournament.",
+                    "Canada Pacific",
+                    "Canada Pacific",
+                    "Canada Ontario",
+                    "The ice hockey tournament at the 1999 Canada Games was held in place of a 1999 tournament.",
+                    "United States",
+                    "Czech Republic",
+                    "Sweden",
+                    "Finland",
+                    "United States",
+                    "Canada Quebec",
+                    "The ice hockey tournament at the 1991 Canada Games was held in place of a 1991 tournament.",
+                    "Canada Quebec",
+                    "Sweden",
+                    "Soviet Union"
+                ]
+            }
+        ]
+    },
+    {
+        "namespace": "Renato_Hyshmeri_Career_statistics",
+        "question": "Which club did Renato Hyshmeri play with in the 2014–15 Albanian Superliga season after leaving Partizani?",
+        "K": 8,
+        "retrievedResults": [
+            {
+                "Club": "Elbasani",
+                "Season": "2010–11",
+                "League": "Albanian Superliga",
+                "League 1": "28",
+                "League 2": "0",
+                "Cup": "0",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "28",
+                "Total 1": "0"
+            },
+            {
+                "Club": "Partizani Tirana",
+                "Season": "2013–14",
+                "League": "Albanian Superliga",
+                "League 1": "26",
+                "League 2": "4",
+                "Cup": "4",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "30",
+                "Total 1": "4"
+            },
+            {
+                "Club": "Elbasani",
+                "Season": "2007–08",
+                "League": "Albanian Superliga",
+                "League 1": "8",
+                "League 2": "0",
+                "Cup": "0",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "8",
+                "Total 1": "0"
+            },
+            {
+                "Club": "Elbasani",
+                "Season": "2008–09",
+                "League": "Albanian Superliga",
+                "League 1": "28",
+                "League 2": "3",
+                "Cup": "4",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "32",
+                "Total 1": "3"
+            },
+            {
+                "Club": "Tirana",
+                "Season": "2014–15",
+                "League": "Albanian Superliga",
+                "League 1": "22",
+                "League 2": "2",
+                "Cup": "6",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "28",
+                "Total 1": "2"
+            },
+            {
+                "Club": "Teuta Durrës",
+                "Season": "2012–13",
+                "League": "Albanian Superliga",
+                "League 1": "21",
+                "League 2": "1",
+                "Cup": "4",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "25",
+                "Total 1": "1"
+            },
+            {
+                "Club": "Teuta Durrës",
+                "Season": "2013–14",
+                "League": "Albanian Superliga",
+                "League 1": "—",
+                "League 2": "—",
+                "Cup": "2",
+                "Cup 1": "0",
+                "Europe": "2",
+                "Europe 1": "0",
+                "Total": "-",
+                "Total 1": "-"
+            },
+            {
+                "Club": "Elbasani",
+                "Season": "2006–07",
+                "League": "Albanian Superliga",
+                "League 1": "4",
+                "League 2": "1",
+                "Cup": "0",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "4",
+                "Total 1": "1"
+            }
+        ]
+    }
+]

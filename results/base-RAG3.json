@@ -1,0 +1,436 @@
+[
+    {
+        "namespace": "1982_Illinois_gubernatorial_election_Results",
+        "question": "Who won the 1982 Illinois gubernatorial election, and how many votes was the margin?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Party": "-",
+                "Party 1": "Republican",
+                "Candidate": "James R. Thompson (incumbent)",
+                "Votes": "1,816,101",
+                "%": "49.44",
+                "±": "-"
+            },
+            {
+                "Candidate": [
+                    "James R. Thompson (incumbent)",
+                    "Adlai Stevenson III",
+                    "Bea Armstrong",
+                    "John E. Roche",
+                    "write-ins",
+                    "Majority",
+                    "Turnout",
+                    "Republican hold"
+                ]
+            },
+            {
+                "table_page_title": "1982 Illinois gubernatorial election"
+            }
+        ]
+    },
+    {
+        "namespace": "1986_Indianapolis_500_Race_box_score",
+        "question": "How did Michael and Mario Andretti do?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Finish": "6",
+                "Start": "3",
+                "No": "18",
+                "Name": "United States Michael Andretti",
+                "Qual": "214.522",
+                "Laps": "199",
+                "Status": "Flagged"
+            },
+            {
+                "Finish": "32",
+                "Start": "30",
+                "No": "2",
+                "Name": "United States Mario Andretti (W)",
+                "Qual": "212.300",
+                "Laps": "19",
+                "Status": "Ignition"
+            },
+            {
+                "Finish": "3",
+                "Start": "1",
+                "No": "4",
+                "Name": "United States Rick Mears (W)",
+                "Qual": "216.828",
+                "Laps": "200",
+                "Status": "+1.881 seconds"
+            }
+        ]
+    },
+    {
+        "namespace": "List_of_best-selling_albums_in_Japan_List_of_best-selling_albums_by_domestic_acts",
+        "question": "How many copies did \"Pleasure\" sell in 1998 alone, and how long was it the best selling album in Japan?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "No.": "2",
+                "Album": "B'z The Best \"Pleasure\"",
+                "Artist": "B'z",
+                "Released": "20 May 1998",
+                "Chart": "1",
+                "Sales": "5,136,000"
+            },
+            {
+                "No.": "6",
+                "Album": "A Best",
+                "Artist": "Ayumi Hamasaki",
+                "Released": "28 March 2001",
+                "Chart": "1",
+                "Sales": "4,312,000"
+            },
+            {
+                "No.": "1",
+                "Album": "First Love",
+                "Artist": "Hikaru Utada",
+                "Released": "10 March 1999",
+                "Chart": "1",
+                "Sales": "7,672,000"
+            }
+        ]
+    },
+    {
+        "namespace": "Tigerair_Australia_Fleet",
+        "question": "How many passengers can that plane hold?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Passengers": [
+                    "180",
+                    "186",
+                    "-"
+                ]
+            },
+            {
+                "Aircraft": "Airbus A320-200",
+                "In Service": "10",
+                "Orders": "—",
+                "Passengers": "180",
+                "Notes": "All to be replaced by Boeing 737-800. Aircraft to be transferred to Virgin Australia Regional Airlines."
+            },
+            {
+                "Aircraft": "Boeing 737-800",
+                "In Service": "5",
+                "Orders": "—",
+                "Passengers": "186",
+                "Notes": "Aircraft transferred from Virgin Australia"
+            }
+        ]
+    },
+    {
+        "namespace": "Ben_Platt_actor_Theatre_credits",
+        "question": "When and in what play did Platt appear at the Music Box Theatre?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Year": "2016–2017",
+                "Production": "Dear Evan Hansen",
+                "Role": "Evan Hansen",
+                "Venue": "Music Box Theatre",
+                "Notes": "Broadway"
+            },
+            {
+                "Year": "2012–2013",
+                "Production": "The Book of Mormon",
+                "Role": "Elder Arnold Cunningham",
+                "Venue": "PrivateBank Theatre",
+                "Notes": "Chicago"
+            },
+            {
+                "Year": "2016",
+                "Production": "Dear Evan Hansen",
+                "Role": "Evan Hansen",
+                "Venue": "Second Stage Theatre",
+                "Notes": "Off-Broadway"
+            }
+        ]
+    },
+    {
+        "namespace": "E-UTRA_User_Equipment_UE_categories",
+        "question": "What are the download rates of EUTRAN?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Max. L1 data rate Downlink (Mbit/s)": [
+                    "0.68",
+                    "1.0",
+                    "1.0",
+                    "10.3",
+                    "51.0",
+                    "102.0",
+                    "150.8",
+                    "299.6",
+                    "301.5",
+                    "301.5",
+                    "2,998.6",
+                    "452.2",
+                    "452.2",
+                    "603.0",
+                    "603.0",
+                    "391.7",
+                    "391.7",
+                    "750",
+                    "979",
+                    "25,065",
+                    "1,174",
+                    "1,566"
+                ]
+            },
+            {
+                "Max. L1 data rate Uplink (Mbit/s)": [
+                    "1.0",
+                    "1.0",
+                    "1.0",
+                    "5.2",
+                    "25.5",
+                    "51.0",
+                    "51.0",
+                    "75.4",
+                    "51.0",
+                    "102.0",
+                    "1,497.8",
+                    "51.0",
+                    "102.0",
+                    "51.0",
+                    "102.0",
+                    "150.8",
+                    "9,585",
+                    "226",
+                    "n/a",
+                    "n/a",
+                    "n/a",
+                    "n/a"
+                ]
+            },
+            {
+                "User equipment Category": "10",
+                "Max. L1 data rate Downlink (Mbit/s)": "452.2",
+                "Max. number of DL MIMO layers": "2 or 4",
+                "Max. L1 data rate Uplink (Mbit/s)": "102.0",
+                "3GPP Release": "Rel 11"
+            }
+        ]
+    },
+    {
+        "namespace": "Melina_Kanakaredes_Television",
+        "question": "What roles did Melina Kanakaredes play in the television dramas; \"Providence (1999–2002)\", \"CSI: NY (2004–2010)\",\"Guiding Light\"?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Year": "1999–2002",
+                "Title": "Providence",
+                "Role": "Dr. Sydney Hansen",
+                "Notes": "Lead role"
+            },
+            {
+                "Year": "2004–2010",
+                "Title": "CSI: NY",
+                "Role": "Detective Stella Bonasera",
+                "Notes": "Lead role"
+            },
+            {
+                "Year": "1991–1995",
+                "Title": "Guiding Light",
+                "Role": "Eleni Andros Cooper",
+                "Notes": "Main cast"
+            }
+        ]
+    },
+    {
+        "namespace": "Austin_Fyten_Career_statistics",
+        "question": "What two teams did Austin Fyten play for during the 2015-16 season, and what league was the first team in?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "- 2": [
+                    "League",
+                    "AMBHL",
+                    "AMBHL",
+                    "AMHL",
+                    "AMHL",
+                    "WHL",
+                    "WHL",
+                    "WHL",
+                    "WHL",
+                    "WHL",
+                    "ECHL",
+                    "AHL",
+                    "AHL",
+                    "ECHL",
+                    "AHL",
+                    "ECHL",
+                    "AHL",
+                    "AHL",
+                    "AHL",
+                    "ECHL",
+                    "AHL",
+                    "AHL",
+                    "AHL totals"
+                ]
+            },
+            {
+                "- 1": [
+                    "Team",
+                    "Airdrie Xtreme",
+                    "Airdrie Xtreme",
+                    "UFA Bisons",
+                    "UFA Bisons",
+                    "Lethbridge Hurricanes",
+                    "Lethbridge Hurricanes",
+                    "Lethbridge Hurricanes",
+                    "Lethbridge Hurricanes",
+                    "Vancouver Giants",
+                    "Idaho Steelheads",
+                    "Texas Stars",
+                    "Oklahoma City Barons",
+                    "Idaho Steelheads",
+                    "Lehigh Valley Phantoms",
+                    "South Carolina Stingrays",
+                    "Hershey Bears",
+                    "Texas Stars",
+                    "Texas Stars",
+                    "Idaho Steelheads",
+                    "Providence Bruins",
+                    "Belleville Senators",
+                    "AHL totals"
+                ]
+            },
+            {
+                "table_page_title": "Austin Fyten"
+            }
+        ]
+    },
+    {
+        "namespace": "World_U-17_Hockey_Challenge_Results",
+        "question": "What countries did the World U-17 Hockey Challenge attract after 2016?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Host city (cities)": [
+                    "Alberta Medicine Hat and Saskatchewan Swift Current",
+                    "New Brunswick Quispamsis and Saint John",
+                    "British Columbia Dawson Creek and Fort St. John",
+                    "Ontario Sault Ste. Marie",
+                    "British Columbia Dawson Creek and Fort St. John",
+                    "Ontario Sarnia and Lambton Shores",
+                    "Nova Scotia Cape Breton, (Sydney/North Sydney/Port Hawkesbury)",
+                    "Quebec Drummondville and Victoriaville",
+                    "Ontario Windsor",
+                    "Manitoba Winnipeg and Portage la Prairie",
+                    "Ontario Timmins / Iroquois Falls / Cochrane / Kapuskasing / Kirkland Lake / New Liskeard",
+                    "British Columbia Campbell River / Courtenay / Duncan / Nanaimo / Parksville / Port Alberni",
+                    "Ontario London / Lucan / St. Thomas / Stratford / Strathroy / Woodstock",
+                    "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                    "Saskatchewan Balgonie / Fort Qu'Appelle / Indian Head / Milestone / Moose Jaw / Regina / Southey / Weyburn",
+                    "Alberta Lethbridge",
+                    "Newfoundland and Labrador St. John's",
+                    "The ice hockey tournament at the 2003 Canada Games was held in place of a 2003 tournament.",
+                    "Manitoba Selkirk / Stonewall",
+                    "Nova Scotia New Glasgow / Truro",
+                    "Ontario/Quebec Timmins /Chapleau / Cochrane / Haileybury / Hearst / Kapuskasing / Kirkland Lake / New Liskeard / Smooth Rock Falls / Rouyn-Noranda",
+                    "The ice hockey tournament at the 1999 Canada Games was held in place of a 1999 tournament.",
+                    "Saskatchewan Swift Current",
+                    "Ontario Kitchener",
+                    "Alberta Red Deer",
+                    "New Brunswick Moncton",
+                    "Quebec Amos",
+                    "Ontario Sudbury",
+                    "The ice hockey tournament at the 1991 Canada Games was held in place of a 1991 tournament.",
+                    "Quebec Quebec City",
+                    "Quebec Quebec City",
+                    "Quebec Quebec City"
+                ]
+            },
+            {
+                "table_page_title": "World U-17 Hockey Challenge"
+            },
+            {
+                "Bronze": [
+                    "-",
+                    "Sweden",
+                    "Czech Republic",
+                    "Russia",
+                    "Sweden",
+                    "Sweden",
+                    "Russia",
+                    "United States",
+                    "Canada Ontario",
+                    "Canada Pacific",
+                    "Sweden",
+                    "United States",
+                    "Canada West",
+                    "The ice hockey tournament at the 2007 Canada Winter Games was held in place of a 2007 tournament.",
+                    "Czech Republic",
+                    "Canada Atlantic",
+                    "Canada Quebec",
+                    "The ice hockey tournament at the 2003 Canada Games was held in place of a 2003 tournament.",
+                    "Canada Ontario",
+                    "Canada Ontario",
+                    "Canada Pacific",
+                    "The ice hockey tournament at the 1999 Canada Games was held in place of a 1999 tournament.",
+                    "Finland",
+                    "Canada Quebec",
+                    "Canada Quebec",
+                    "Canada Quebec",
+                    "Canada Pacific",
+                    "Czechoslovakia",
+                    "The ice hockey tournament at the 1991 Canada Games was held in place of a 1991 tournament.",
+                    "Soviet Union",
+                    "Canada Quebec",
+                    "Canada Pacific"
+                ]
+            }
+        ]
+    },
+    {
+        "namespace": "Renato_Hyshmeri_Career_statistics",
+        "question": "Which club did Renato Hyshmeri play with in the 2014–15 Albanian Superliga season after leaving Partizani?",
+        "K": 3,
+        "retrievedResults": [
+            {
+                "Club": "Elbasani",
+                "Season": "2010–11",
+                "League": "Albanian Superliga",
+                "League 1": "28",
+                "League 2": "0",
+                "Cup": "0",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "28",
+                "Total 1": "0"
+            },
+            {
+                "Club": "Partizani Tirana",
+                "Season": "2013–14",
+                "League": "Albanian Superliga",
+                "League 1": "26",
+                "League 2": "4",
+                "Cup": "4",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "30",
+                "Total 1": "4"
+            },
+            {
+                "Club": "Elbasani",
+                "Season": "2007–08",
+                "League": "Albanian Superliga",
+                "League 1": "8",
+                "League 2": "0",
+                "Cup": "0",
+                "Cup 1": "0",
+                "Europe": "—",
+                "Europe 1": "—",
+                "Total": "8",
+                "Total 1": "0"
+            }
+        ]
+    }
+]
